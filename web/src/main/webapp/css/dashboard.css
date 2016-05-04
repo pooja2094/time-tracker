@@ -1,0 +1,252 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	 width:100%;
+	 display:block;
+	 background-color:#F1F0FF;
+}
+#big_wrapper{
+	width:1200px;
+	margin:20px auto;
+	margin-top:0px;
+	text-align:center;
+}
+#app_name_header{
+	height:100px;
+	background-color:#368BC1;
+	color:white;
+}
+#app_name_body{
+	height:70px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+	margin-bottom:10px;
+}
+#menu{
+	margin-bottom:10px;
+	width:1200px;
+}
+#menu_items{
+	width:530px;
+}
+.align_menu{
+	float:left;
+	margin-left:15px;
+}
+#menu_message_header{
+	height:40px;
+	width:402px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#menu_message_body{
+	height:70px;
+	width:400px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+	margin-bottom:10px;
+}
+#logout_header{
+	margin-left:10px;
+	height:40px;
+	width:255px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#E55451;
+	color:white;
+}
+#logout_body{
+	height:70px;
+	width:253px;
+	margin-left:10px;
+	border-bottom:1px solid #E55451;
+	border-right:1px solid #E55451;
+	border-left:1px solid #E55451;
+	border-left-radius:5px;
+}
+#dash_class{
+	width:50px;
+	height:50px;
+}
+#dashboard{
+	margin-top:15px;
+	background-color:#368BC1;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+	margin-left:20px;
+}
+#about_app{
+	margin-top:15px;
+	background-color:#368BC1;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+}
+#welcome_message{
+	margin-top:5px;
+	margin-left:300px;
+	margin-right:160px;
+}
+#logout{
+	background-color:#E55451;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+	margin-left:50px;
+	margin-top:15px;
+}
+#user_msg_header{
+	margin-top:10px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#user_msg_body{
+	height:100px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+}
+#container_header{
+	clear:both;
+	margin-top:10px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#container_body{
+	height:400px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+}
+#controller_header{
+	margin-top:10px;
+	width:660px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#controller_body{
+	height:310px;
+	width:658px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+	margin-bottom:10px;
+}
+.controller_items{
+	height:48px;
+}
+.account_align{
+	width:200px;
+	height:35px;
+	float:left;
+}
+#server_status_header{
+	margin-top:10px;
+	margin-left:24px;
+	width:516px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#server_status_body{
+	height:310px;
+	width:514px;
+	margin-left:24px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+	margin-bottom:10px;
+}
+.align_controller{
+	float:left;
+}
+#down_time{
+	clear:both;
+}
+#down_time_header{
+	margin-top:10px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#down_time_body{
+	height:200px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+}
+#login_header{
+	margin-top:10px;
+	height:40px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#login_body{
+	height:300px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+}
+#menu_header{
+	height:40px;
+	width:522px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	background-color:#368BC1;
+	color:white;
+}
+#menu_body{
+	height:70px;
+	width:520px;
+	border-bottom:1px solid #368BC1;
+	border-right:1px solid #368BC1;
+	border-left:1px solid #368BC1;
+	margin-bottom:10px;
+}
+#controller_block{
+	float:left;
+}
+
+#controller_box{
+	width:500px;
+	margin-left:100px;
+	margin-right:100px;
+}
+.vscrollbar
+{
+	overflow-x: hidden; /*for hiding horizontal scroll bar*/
+	overflow-y: auto; /*for vertical scroll bar*/
+}
+#footer_content{
+	width:300px;
+	height:200px;
+	background-color:#848482;
+	border-right:2px solid white;
+} 
+#footer_body{
+	height:200px;
+	background-color:#848482;
+	width:896px;
+}
